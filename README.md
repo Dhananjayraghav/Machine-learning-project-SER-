@@ -6,3 +6,4 @@ Description : This app is based on python language and is coded on jupyter noteb
 
 This software can recognise the voice of individual and classify the emotion of that individual by analyzing it through the librosa library.
 Librosa is a python library which can help in analyzing the voices 
+These technologies are very halpful for Medtech & Edtech industries
